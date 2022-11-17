@@ -1,0 +1,30 @@
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\EntrenadorIngles\EntrenadorIngles\bin\Debug\netstandard2.0\EntrenadorIngles.deps.json
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\EntrenadorIngles\EntrenadorIngles\bin\Debug\netstandard2.0\EntrenadorIngles.dll
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\EntrenadorIngles\EntrenadorIngles\bin\Debug\netstandard2.0\EntrenadorIngles.pdb
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\EntrenadorIngles.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\EntrenadorIngles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\EntrenadorIngles.AssemblyInfoInputs.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\EntrenadorIngles.AssemblyInfo.cs
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\EntrenadorIngles.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\EntrenadorIngles.dll
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\refint\EntrenadorIngles.dll
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\EntrenadorIngles.pdb
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\ref\EntrenadorIngles.dll
+C:\Users\jon_r\Desktop\EntrenadorIngles\EntrenadorIngles\bin\Debug\netstandard2.0\EntrenadorIngles.deps.json
+C:\Users\jon_r\Desktop\EntrenadorIngles\EntrenadorIngles\bin\Debug\netstandard2.0\EntrenadorIngles.dll
+C:\Users\jon_r\Desktop\EntrenadorIngles\EntrenadorIngles\bin\Debug\netstandard2.0\EntrenadorIngles.pdb
+C:\Users\jon_r\Desktop\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\EntrenadorIngles.csproj.AssemblyReference.cache
+C:\Users\jon_r\Desktop\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\EntrenadorIngles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jon_r\Desktop\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jon_r\Desktop\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jon_r\Desktop\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\EntrenadorIngles.AssemblyInfoInputs.cache
+C:\Users\jon_r\Desktop\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\EntrenadorIngles.AssemblyInfo.cs
+C:\Users\jon_r\Desktop\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\EntrenadorIngles.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Desktop\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jon_r\Desktop\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\EntrenadorIngles.dll
+C:\Users\jon_r\Desktop\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\refint\EntrenadorIngles.dll
+C:\Users\jon_r\Desktop\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\EntrenadorIngles.pdb
+C:\Users\jon_r\Desktop\EntrenadorIngles\EntrenadorIngles\obj\Debug\netstandard2.0\ref\EntrenadorIngles.dll
